@@ -2,7 +2,7 @@
   "name": "atendemóveis-backend",
   "version": "1.0.0",
   "description": "Backend do AtendeMóveis — WhatsApp + IA 24/7",
-  "serve.js": "src/server.js",
+  "serve.js": "server.js",
   "scripts": {
     "start": "node server.js",
   },
